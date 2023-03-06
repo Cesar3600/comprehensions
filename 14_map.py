@@ -20,6 +20,5 @@ print(list(numbers_v3))
 numbers_1 = [1,2,3,4]
 numbers_2 = [5,6,7]
 
-
 results = map(lambda x,y: x+y,numbers_1,numbers_2)
 print(list(results))
